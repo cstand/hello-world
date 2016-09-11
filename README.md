@@ -1,2 +1,4 @@
 # hello-world
-my first respository
+def main():
+     print("Hello World")
+main()
